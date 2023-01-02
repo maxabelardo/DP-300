@@ -1,0 +1,18 @@
+
+
+os serviços gratuitos 
+https://azure.microsoft.com/pt-br/free/free-account-faq/#free-services
+
+Catálogo de dados
+https://azure.microsoft.com/pt-br/products/data-catalog/
+
+Azure Data Factory
+https://azure.microsoft.com/pt-br/products/data-factory/
+
+Detector de Anomalias
+https://azure.microsoft.com/pt-br/products/cognitive-services/anomaly-detector/
+
+
+Serviço de Migração de Banco de Dados do Azure
+https://azure.microsoft.com/pt-br/products/database-migration/
+
